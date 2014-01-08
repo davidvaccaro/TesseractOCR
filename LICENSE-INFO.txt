@@ -1,0 +1,12 @@
+/*
+* TesseractOCR v@VERSION
+* 
+* TesseractOCR was developed by Hewlett Packard Laboratories Bristol and is licensed under the Apache License (Please see COPYING for additional details)
+* 
+* For the additional Microsoft Visual Studio related contributions: 
+*
+* Copyright 2014 David Vaccaro
+* Released under the MIT license.
+* See MIT-LICENSE.txt
+*
+*/
